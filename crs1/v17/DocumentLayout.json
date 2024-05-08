@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mukhe\\Downloads\\CaseStudy-main\\crs\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{239D8378-64D0-43BC-84FD-350DFA88F50B}|crs1.csproj|c:\\users\\mukhe\\downloads\\casestudy-main\\crs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{239D8378-64D0-43BC-84FD-350DFA88F50B}|crs1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{239D8378-64D0-43BC-84FD-350DFA88F50B}|crs1.csproj|c:\\users\\mukhe\\downloads\\casestudy-main\\crs\\utils\\dbconfig.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{239D8378-64D0-43BC-84FD-350DFA88F50B}|crs1.csproj|solutionrelative:utils\\dbconfig.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{239D8378-64D0-43BC-84FD-350DFA88F50B}|crs1.csproj|c:\\users\\mukhe\\downloads\\casestudy-main\\crs\\utils\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{239D8378-64D0-43BC-84FD-350DFA88F50B}|crs1.csproj|solutionrelative:utils\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{239D8378-64D0-43BC-84FD-350DFA88F50B}|crs1.csproj|c:\\users\\mukhe\\downloads\\casestudy-main\\crs\\dao\\carleaserepositoryimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{239D8378-64D0-43BC-84FD-350DFA88F50B}|crs1.csproj|solutionrelative:dao\\carleaserepositoryimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 122,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CarLeaseRepositoryImpl.cs",
+              "DocumentMoniker": "C:\\Users\\mukhe\\Downloads\\CaseStudy-main\\crs\\Dao\\CarLeaseRepositoryImpl.cs",
+              "RelativeDocumentMoniker": "Dao\\CarLeaseRepositoryImpl.cs",
+              "ToolTip": "C:\\Users\\mukhe\\Downloads\\CaseStudy-main\\crs\\Dao\\CarLeaseRepositoryImpl.cs",
+              "RelativeToolTip": "Dao\\CarLeaseRepositoryImpl.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T17:00:52.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mukhe\\Downloads\\CaseStudy-main\\crs\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\mukhe\\Downloads\\CaseStudy-main\\crs\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T16:32:06.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DBConnection.cs",
+              "DocumentMoniker": "C:\\Users\\mukhe\\Downloads\\CaseStudy-main\\crs\\Utils\\DBConnection.cs",
+              "RelativeDocumentMoniker": "Utils\\DBConnection.cs",
+              "ToolTip": "C:\\Users\\mukhe\\Downloads\\CaseStudy-main\\crs\\Utils\\DBConnection.cs",
+              "RelativeToolTip": "Utils\\DBConnection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T16:40:33.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "dbConfig.txt",
+              "DocumentMoniker": "C:\\Users\\mukhe\\Downloads\\CaseStudy-main\\crs\\Utils\\dbConfig.txt",
+              "RelativeDocumentMoniker": "Utils\\dbConfig.txt",
+              "ToolTip": "C:\\Users\\mukhe\\Downloads\\CaseStudy-main\\crs\\Utils\\dbConfig.txt*",
+              "RelativeToolTip": "Utils\\dbConfig.txt*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-05-08T16:40:26.544Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
