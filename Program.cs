@@ -406,8 +406,7 @@ namespace Car_Rental_System
                                     context.SaveChanges();
                                     Console.WriteLine("Payment recorded successfully.");
                                 }
-                                //UpdatePaymentAmountInDatabase(lease, amount);
-                                //Console.WriteLine("Payment recorded successfully.");
+                               
                                 else
                                 {
                                     throw new LeaseNotFoundE("Lease not found.");
@@ -419,30 +418,7 @@ namespace Car_Rental_System
                             Console.WriteLine($"Error: {ex.Message}");
                         }
                         
-                        //static Lease GetLeaseById(int leaseId)
-                        //{
-                        //    using (var context = new Car_Rental_System.Models.CrsContext())
-                        //    {
-                        //        return context.Leases.FirstOrDefault(l => l.LeaseId == leaseId);
-                        //    }
-                        //}
-
-                        //void UpdatePaymentAmountInDatabase(Lease lease, int amount)
-                        //{
-                        //    using (var dbContext = new Car_Rental_System.Models.CrsContext())
-                        //    {
-                        //        var existingPayment = dbContext.Payments.FirstOrDefault(p => p.LeaseId == lease.LeaseId);
-                        //        if (existingPayment != null)
-                        //        {
-                        //            existingPayment.Amount += amount;
-                        //            dbContext.SaveChanges();
-                        //        }
-                        //        else
-                        //        {
-                        //            throw new PaymentNotFoundE("Payment not found for the lease in the database.");
-                        //        }
-                        //    }
-                        //}
+                      
                         break;
 
                     case 2:
